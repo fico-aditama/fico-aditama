@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/fiko-aditama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fiko-aditama" height="30" width="40" /></a>
 <a href="https://instagram.com/fico_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fico_24" height="30" width="40" /></a>
 <a href="https://medium.com/@fico-aditama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fico-aditama" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/maribelajar-k5v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maribelajar-k5v" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@maribelajar-k5v/playlists" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maribelajar-k5v" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ficoaditama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ficoaditama" height="30" width="40" /></a>
 </p>
 
