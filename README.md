@@ -1,31 +1,125 @@
-<h1 align="center">Hi 👋, I'm Fiko Aditama</h1>
-<h3 align="center">Experienced Odoo Developer with a proven track record of boosting system efficiency by 40% . Skilled in module creation, issue resolution, and continuous skill enhancement. Data Analyst with hands-on experience in data cleaning, Python, SQL, and data visualization</h3>
+<div align="center">
+  <!-- Animated 3D Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=2E97A7&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+Fiko+Aditama's+World;Odoo+Developer+%7C+Data+Analyst;Innovating+with+Code" alt="Typing SVG" />
+  </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fico-aditama&label=Profile%20views&color=0e75b6&style=flat" alt="fico-aditama" /> </p>
+  <!-- Animated Banner -->
+  <img src="https://your-custom-animated-banner.gif" width="100%" alt="Fiko Aditama - Developer & Analyst">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fico-aditama" alt="fico-aditama" /></a> </p>
+  <!-- Animated Skill Icons -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,docker,kubernetes,aws,gcp,mysql,mongodb,git&perline=11" />
+  </p>
+</div>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- About Me Section with Particle.js Background -->
+<div align="left" style="background: url('https://particle-js-background.gif'); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <h2>🚀 About Me</h2>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=fico-aditama&theme=nord&column=7&no-frame=true&no-bg=true" />
+  </p>
+  <ul>
+    <li>🔭 Odoo Developer with a track record of boosting system efficiency by <b>40%</b></li>
+    <li>📊 Data Analyst specializing in Python, SQL, and advanced visualization techniques</li>
+    <li>🌱 Continuous learner, always exploring cutting-edge technologies</li>
+    <li>🎯 Goal: Revolutionize business processes through innovative software solutions</li>
+  </ul>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fiko-aditama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fiko-aditama" height="30" width="40" /></a>
-<a href="https://instagram.com/fico_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fico_24" height="30" width="40" /></a>
-<a href="https://medium.com/@fico-aditama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fico-aditama" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@maribelajar-k5v/playlists" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maribelajar-k5v" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ficoaditama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ficoaditama" height="30" width="40" /></a>
-</p>
+<!-- Interactive Project Showcase -->
+<h2>🌟 Featured Projects</h2>
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <!-- Project 1 -->
+  <div style="width: 45%; min-width: 300px; margin: 10px; perspective: 1000px;">
+    <div style="transition: transform 0.6s; transform-style: preserve-3d;">
+      <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+        <h3>Odoo ERP Enhancement Suite</h3>
+        <p>A comprehensive set of custom modules that increased overall ERP efficiency by 40%.</p>
+        <img src="https://via.placeholder.com/300x150?text=Odoo+ERP+Suite" alt="Project 1" style="width:100%; border-radius: 5px;">
+        <a href="#" style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #2E97A7; color: white; text-decoration: none; border-radius: 5px;">View Project</a>
+      </div>
+    </div>
+  </div>
+  <!-- Project 2 -->
+  <div style="width: 45%; min-width: 300px; margin: 10px; perspective: 1000px;">
+    <div style="transition: transform 0.6s; transform-style: preserve-3d;">
+      <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+        <h3>Advanced Data Analytics Dashboard</h3>
+        <p>Interactive dashboard providing real-time insights, built with Python and D3.js.</p>
+        <img src="https://via.placeholder.com/300x150?text=Analytics+Dashboard" alt="Project 2" style="width:100%; border-radius: 5px;">
+        <a href="#" style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #2E97A7; color: white; text-decoration: none; border-radius: 5px;">Explore Dashboard</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Animated Skills Section -->
+<h2>🛠️ Skills & Expertise</h2>
+<div align="center">
+  <img src="https://github.com/fico-aditama/fico-aditama/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+<div align="left">
+  <!-- Skill Bars with Animation -->
+  <div style="background: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
+    <h3>Technical Proficiencies</h3>
+    <div style="margin-bottom: 10px;">
+      <span>Odoo Development</span>
+      <div style="background-color: #2E97A7; width: 95%; height: 20px; border-radius: 10px;">
+        <div style="width: 95%; background-color: #1a1b27; height: 100%; border-radius: 10px; text-align: right; padding-right: 5px; color: white;">95%</div>
+      </div>
+    </div>
+    <div style="margin-bottom: 10px;">
+      <span>Python & Data Analysis</span>
+      <div style="background-color: #2E97A7; width: 90%; height: 20px; border-radius: 10px;">
+        <div style="width: 90%; background-color: #1a1b27; height: 100%; border-radius: 10px; text-align: right; padding-right: 5px; color: white;">90%</div>
+      </div>
+    </div>
+    <!-- Add more skills here -->
+  </div>
+</div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ficoaditamz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ficoaditamz" /></a></p><br><br>
+<!-- Interactive GitHub Stats -->
+<h2>📊 GitHub Analytics</h2>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fico-aditama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fico-aditama&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fico-aditama&theme=tokyonight" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fico-aditama&show_icons=true&locale=en&layout=compact" alt="fico-aditama" /></p>
+<!-- Certifications & Achievements with Icons -->
+<h2>🏆 Certifications & Achievements</h2>
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="background: #1a1b27; padding: 15px; border-radius: 10px; margin: 10px; width: 200px;">
+    <img src="https://img.icons8.com/color/48/000000/certificate.png"/>
+    <h4>Odoo Certified Developer</h4>
+  </div>
+  <!-- Add more certifications here -->
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fico-aditama&show_icons=true&locale=en" alt="fico-aditama" /></p>
+<!-- Connect with Me Section with Animated Icons -->
+<h2>🤝 Let's Connect</h2>
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <a href="https://linkedin.com/in/fiko-aditama">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="animation: spin 2s linear infinite;"/>
+  </a>
+  <a href="https://instagram.com/fico_24">
+    <img src="https://img.icons8.com/color/48/000000/instagram.png" alt="Instagram" style="animation: spin 2s linear infinite;"/>
+  </a>
+  <!-- Add more social media icons here -->
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fico-aditama&" alt="fico-aditama" /></p>
+<!-- Support Section with Animated Button -->
+<h2>☕ Support My Work</h2>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ficoaditamz">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" style="animation: pulse 2s linear infinite;"/>
+  </a>
+</div>
+
+<!-- Footer with Animated Icons -->
+<div align="center" style="background: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Waving Footer" />
+</div>
